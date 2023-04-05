@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Update apt Repositories and Upgrade Packages
+sudo apt update && sudo apt upgrade -y

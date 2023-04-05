@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Install Bootstrap Dependencies
+sudo apt install -y curl git
